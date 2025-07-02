@@ -33,11 +33,12 @@ A visual editor to build and validate data pipelines using a directed acyclic gr
 
 ## 🧪 How to Run Locally
 
-'''bash
+```bash
 git clone https://github.com/Sachi34129/pipeline-editor
 cd pipeline-editor
 npm install
-npm run dev '''
+npm run dev
+```
 
 ---
 

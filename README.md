@@ -66,25 +66,25 @@ pipeline-editor/
 
 ## 📸 Screenshots
 
-### Node Creation
+### 🧩 Start Node Creation
 <img src="./screenshots/Screenshot_1.png" width="50%" />
 
-### Node Creation
+### 🧠 Enter Node Label
 <img src="./screenshots/Screenshot_2.png" width="50%" />
 
-### Node Creation
+### 🔁 Cycle Detected in DAG
 <img src="./screenshots/Screenshot_3.png" width="50%" />
 
-### Node Creation
-<img src="./screenshots/Screenshot_4.png" width="50%" />
-
-### Node Creation
+### ✅ Valid DAG (Before Layout)
 <img src="./screenshots/Screenshot_5.png" width="50%" />
 
-### Node Creation
+### 🔃 Auto Layout Applied
+<img src="./screenshots/Screenshot_4.png" width="50%" />
+
+### ⚠️ Disconnected Node Warning
 <img src="./screenshots/Screenshot_6.png" width="50%" />
 
-### Node Creation
+### ❌ Empty Graph
 <img src="./screenshots/Screenshot_7.png" width="50%" />
 
 

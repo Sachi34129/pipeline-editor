@@ -67,10 +67,10 @@ pipeline-editor/
 ## 📸 Screenshots
 
 ### Node Creation
-![Node Creation](./screenshots/Screenshot_2025-07-02_at_9.10.42_PM.png)
+![Node Creation](./screenshots/Screenshot 2025-07-02 at 9.10.42 PM.png)
 
 ### Valid DAG Layout
-![Auto Layout](./screenshots/Screenshot_2025-07-02_at_9.13.24_PM.png)
+![Auto Layout](./screenshots/Screenshot 2025-07-02 at 9.13.24 PM.png)
 
 ---
 

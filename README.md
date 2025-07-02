@@ -17,7 +17,7 @@ A visual editor to build and validate data pipelines using a directed acyclic gr
 
 ## 🚀 Demo
 
-[Click here to view live demo](https://your-deployed-link.vercel.app)
+[Click here to view live demo](https://pipeline-editor-psi.vercel.app/)
 
 ---
 

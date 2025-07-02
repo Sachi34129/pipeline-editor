@@ -69,23 +69,23 @@ pipeline-editor/
 ### Node Creation
 <img src="./screenshots/Screenshot_1.png" width="50%" />
 
-### Valid DAG Layout
-![Auto Layout](./screenshots/Screenshot_2.png)
+### Node Creation
+<img src="./screenshots/Screenshot_2.png" width="50%" />
 
 ### Node Creation
-![Node Creation](./screenshots/Screenshot_3.png)
-
-### Valid DAG Layout
-![Auto Layout](./screenshots/Screenshot_4.png)
+<img src="./screenshots/Screenshot_3.png" width="50%" />
 
 ### Node Creation
-![Node Creation](./screenshots/Screenshot_5.png)
-
-### Valid DAG Layout
-![Auto Layout](./screenshots/Screenshot_6.png)
+<img src="./screenshots/Screenshot_4.png" width="50%" />
 
 ### Node Creation
-![Node Creation](./screenshots/Screenshot_7.png)
+<img src="./screenshots/Screenshot_5.png" width="50%" />
+
+### Node Creation
+<img src="./screenshots/Screenshot_6.png" width="50%" />
+
+### Node Creation
+<img src="./screenshots/Screenshot_7.png" width="50%" />
 
 
 ---

@@ -43,3 +43,21 @@ npm run dev
 ---
 
 ## 📁 Folder Structure
+
+```
+pipeline-editor/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── CustomNode.jsx
+│   ├── validateDAG.js
+│   └── layoutGraph.js
+├── screenshots/
+│   ├── demo1.png
+│   └── demo2.png
+├── README.md
+├── package.json
+├── vite.config.js
+└── index.html
+
+```

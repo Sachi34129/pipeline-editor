@@ -89,7 +89,7 @@ pipeline-editor/
 
 ---
 
-## 🎥 Demo Walkthrough (Screen Recording with Own Voiceover)
+## 🎥 Demo Walkthrough (Screen Recording with Voiceover)
 
 > 🔗 [Click here to watch the screen recording on Google Drive](https://drive.google.com/file/d/your-drive-id/view)
 

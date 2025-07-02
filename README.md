@@ -69,11 +69,12 @@ pipeline-editor/
 ---
 
 ## 🤯 Challenges Faced
-	-	Cycle Detection: Implementing real-time DAG validation required custom DFS traversal logic to check for cycles.
-	-	Auto Layout: Integrating dagre and maintaining correct positioning after layout was non-trivial.
-	-	Edge Validation: Ensuring edges only connect from source → target, preventing invalid connections like output → output.
-	-	State Management: Keeping node/edge state in sync with reactflow events, especially during deletion or reconnection.
-	-	User Feedback: Providing clear DAG status messages with reasons for invalidity (e.g., “cycle detected”, “unconnected node”).
+
+- Cycle Detection: Implementing real-time DAG validation required custom DFS traversal logic to check for cycles.
+- Auto Layout: Integrating dagre and maintaining correct positioning after layout was non-trivial.
+- Edge Validation: Ensuring edges only connect from source → target, preventing invalid connections like output → output.
+- State Management: Keeping node/edge state in sync with reactflow events, especially during deletion or reconnection.
+- User Feedback: Providing clear DAG status messages with reasons for invalidity (e.g., “cycle detected”, “unconnected node”).
 
 ---
 

@@ -87,6 +87,17 @@ pipeline-editor/
 ### ❌ Empty Graph
 <img src="./screenshots/Screenshot_7.png" width="50%" />
 
+---
+
+## 🎥 Demo Walkthrough (Screen Recording)
+
+> 🔗 [Click here to watch the screen recording on Google Drive](https://drive.google.com/file/d/your-drive-id/view)
+
+This recording shows how to:
+- Add and connect nodes
+- Validate DAG
+- Trigger auto layout
+- Handle common errors like disconnected nodes or cycles
 
 ---
 

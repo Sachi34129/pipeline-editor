@@ -12,7 +12,7 @@ A visual editor to build and validate data pipelines using a directed acyclic gr
 
 ## 🎥 Demo Walkthrough (Screen Recording with Voiceover)
 
-> 🔗 [Click here to watch the screen recording on Google Drive](https://drive.google.com/file/d/your-drive-id/view)
+> 🔗 [Click here to watch the screen recording on Google Drive](https://drive.google.com/drive/folders/1-UO1tFetX2FHYfxa__WqVJsutd9zwPg-?usp=sharing)
 
 This recording shows how to:
 - Add and connect nodes

@@ -101,15 +101,36 @@ This recording shows how to:
 
 ---
 
-## 🤯 Challenges Faced
+## 💡 Library Decisions
 
-- Cycle Detection: Implementing real-time DAG validation required custom DFS traversal logic to check for cycles.
-- Auto Layout: Integrating dagre and maintaining correct positioning after layout was non-trivial.
-- Edge Validation: Ensuring edges only connect from source → target, preventing invalid connections like output → output.
-- State Management: Keeping node/edge state in sync with reactflow events, especially during deletion or reconnection.
-- User Feedback: Providing clear DAG status messages with reasons for invalidity (e.g., “cycle detected”, “unconnected node”).
+- **React + Vite**: Chosen for fast development experience with Hot Module Replacement and minimal setup overhead.
+- **React Flow**: Provides a robust and interactive graph-building experience with support for custom nodes and edges.
+- **Dagre**: Used to automatically layout the DAG in a readable left-to-right format.
+- **Zustand**: Lightweight state management integrated seamlessly with React Flow’s internal store.
+- **JavaScript (ES6)**: Clean, modern syntax to keep the project lightweight and beginner-friendly.
 
 ---
+
+## 🧠 Challenges Faced
+
+### 1. DAG Validation  
+Detecting cycles and ensuring a minimum valid structure (at least 2 nodes, all connected) required implementing custom validation logic using **Depth-First Search (DFS)**. Edge cases like unconnected nodes or self-loops had to be carefully handled.
+
+### 2. Auto Layout  
+Using **Dagre** for layout introduced complexities in preserving existing node positions while rearranging the graph. Mapping between React Flow's coordinates and Dagre's layout engine took careful adjustment.
+
+### 3. State Synchronization  
+React Flow’s internal state had to be tightly synchronized with custom validation logic, edge drawing, node labeling, and layout. Managing this dynamically while maintaining performance required thoughtful use of **Zustand**.
+
+---
+
+## 📚 References
+
+- 📘 [React Flow Documentation](https://reactflow.dev/)
+- 📘 [Dagre Graph Layout](https://github.com/dagrejs/dagre)
+- 📘 [Zustand - A Bear Necessity for State Management](https://github.com/pmndrs/zustand)
+- 📘 [Vite + React Starter Template](https://vitejs.dev/guide/)
+- 📘 [Depth-First Search Algorithm – GeeksforGeeks](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 
 You can now paste this into your `README.md` and commit it:
 

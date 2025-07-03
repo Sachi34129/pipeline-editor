@@ -84,9 +84,6 @@ pipeline-editor/
 ### 🧠 Enter Node Label
 <img src="./screenshots/Screenshot_2.png" width="50%" />
 
-### 🔁 Cycle Detected in DAG
-<img src="./screenshots/Screenshot_3.png" width="50%" />
-
 ### ✅ Valid DAG (Before Layout)
 <img src="./screenshots/Screenshot_5.png" width="50%" />
 
@@ -95,6 +92,9 @@ pipeline-editor/
 
 ### ⚠️ Disconnected Node Warning
 <img src="./screenshots/Screenshot_6.png" width="50%" />
+
+### 🔁 Cycle Detected in DAG
+<img src="./screenshots/Screenshot_3.png" width="50%" />
 
 ### ❌ Empty Graph
 <img src="./screenshots/Screenshot_7.png" width="50%" />
